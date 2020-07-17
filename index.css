@@ -1,0 +1,60 @@
+body{
+text-align: left;
+font-family: 'Montserrat', sans-serif;
+}
+.main-heading{
+  font-family: 'Montserrat', sans-serif;
+  padding:3% 0 5%;
+  text-align: center;
+}
+.primary-div{
+  padding: 5% 10% 7%;
+  background-color: #DDF3F5;
+}
+.profile{
+  margin-left: auto;
+  margin-right: auto;
+}
+.personal-info{
+  text-align: left;
+  padding: 4% 10% 6%;
+  background-color: #A6DCEF;
+}
+.academic-info{
+  text-align: left;
+  padding: 2% 10% 3%;
+  background-color: #DDF3F5;
+}
+.hobbies{
+  text-align: left;
+  padding: 2% 10% 3%;
+  text-align: left;
+  background-color: #A6DCEF;
+}
+.left-text{
+  font-family: 'Tinos', serif;
+  background-color: #3B6978;
+}
+.right-text{
+  font-family: 'Poppins', sans-serif;
+  background-color: #84A9AC;
+}
+hr{
+  border-width: medium;
+  margin: 0;
+  border-color: #E4E3E3;
+}
+.contact-me{
+text-align: center;
+ text-decoration: none;
+ padding: 1% 0 2%;
+ color: black;
+ background-color: #E4E3E3;
+}
+.contact-me a{
+  color: black;
+}
+.contact-me a:hover{
+  text-decoration: none;
+  color: green;
+}
